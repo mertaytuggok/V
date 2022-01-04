@@ -1,0 +1,28 @@
+.body{
+    border: 2px;
+        padding: 20px;
+        text-align: center;
+}
+.fs-32{
+    font-size: 32px;
+    color: red;
+    }
+    .fs-25{
+        font-size: 25px;
+        margin-right: 5px;
+    }
+    .fs-30{
+        font-size: 30px;
+        color: salmon;
+    }
+    .fs-20{
+        font-size: 20px;
+        color: #000;
+    }
+
+
+    .pt{
+        height: 25%;
+        width: 25%;
+        margin: 25px;
+    }
